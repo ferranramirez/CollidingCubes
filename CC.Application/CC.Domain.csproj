@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CC.Application.Common">
+      <HintPath>..\CC.Application.Common\obj\Debug\netcoreapp3.1\CC.Application.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
